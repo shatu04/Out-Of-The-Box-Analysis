@@ -1,4 +1,9 @@
 📊 Power BI Project: OUT OF THE BOX
+
+
+
+
+
 📌 Overview
 OUT OF THE BOX is a Power BI dashboard designed to deliver creative and unconventional insights using rich visual storytelling. This project focuses on [briefly describe the theme or dataset if known—e.g., business metrics, education, health, etc.]. It demonstrates how data can be interpreted with a fresh perspective using Power BI's advanced visualization features.
 
